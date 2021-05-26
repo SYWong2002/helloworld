@@ -1,3 +1,5 @@
 # Hello World!
+This is a new repository. Welcome to leave a message here. 
+Cheer!
 
-This is a new repository. All's about GO lang!
+I am Sin Yaw. Good day to everyone!
